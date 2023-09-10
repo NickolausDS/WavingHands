@@ -32,8 +32,10 @@ code into different classes and such.
 Publication will allow anyone to easily install and run the game. The goal here is that someone new could do this
 to host their own game: 
 
+```
 pip install waving-hands
 waving-hands --start
+```
 
 * Expand readme.md with instructions on how to run the game (server, and clients)
     * We may not need instructions for clients if we remove the need for client code
